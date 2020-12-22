@@ -1,0 +1,16 @@
+head, body {
+    background: black;
+}
+header {
+    color:lightgreen;
+}
+td {
+    color: red;
+}
+h1 {
+    color: red;
+}
+tr td a {
+    color: red;
+    text-decoration: underline yellow;
+}
